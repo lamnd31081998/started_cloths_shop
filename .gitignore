@@ -15,7 +15,7 @@ yarn-error.log
 
 /public/images/generals/
 /public/ckfinder/
-/public/images-ckfinder/
-/public/files-ckfinder/
+/public/ckfinder-images/
+/public/ckfinder-files/
 /public/.ckfinder/
 /public/ckfinder/core/connector/php/vendor/cksource/ckfinder
